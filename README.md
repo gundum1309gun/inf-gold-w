@@ -1,2 +1,1 @@
-# inf-gold-w
-inf gold 
+infinite gold
